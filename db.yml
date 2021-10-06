@@ -1,0 +1,9 @@
+
+# for registry development
+smerte:
+  host: db
+  name: SmerteReportDataStaging
+  user: root
+  pass: root
+  disp: ForSmerteDevOnly
+
