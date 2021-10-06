@@ -1,9 +1,9 @@
-## Tailored development docker image for norgast
+## Tailored development docker image for smerte
 
-Speed up development processes for norgast...
+Speed up development processes for smerte...
 
 ### Build
-```docker build -t rapporteket/norgast-dev .```
+```docker build -t rapporteket/smerte-dev .```
 
 ### Run
 ```docker-compose up```
