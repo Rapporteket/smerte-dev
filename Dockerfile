@@ -12,6 +12,7 @@ RUN cat /home/rstudio/rap_config/db.yml >> /home/rstudio/rap_config/dbConfig.yml
                                 'covr',\
                                 'dplyr',\
                                 'DT', \
+                                'ggplot2', \
                                 'gridExtra', \
                                 'janitor',\
                                 'kableExtra',\
@@ -21,7 +22,8 @@ RUN cat /home/rstudio/rap_config/db.yml >> /home/rstudio/rap_config/dbConfig.yml
                                 'magrittr',\
                                 'readr',\
                                 'revealjs',\
-                                'rlang',\
+                                'rlang', \
+                                'RMariaDB', \
                                 'rmarkdown',\
                                 'shiny',\
                                 'shinyalert',\
