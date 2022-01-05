@@ -6,5 +6,4 @@ Speed up development processes for smerte...
 ```docker build -t rapporteket/smerte-dev .```
 
 ### Run
-```docker-compose up```
-
+Run ```docker-compose up``` from root of registry repository.
